@@ -1,3 +1,2 @@
 # Gas-Detector
-Major Project
-Access the Fritzing file and Arduino Code file
+ACCESS THE FRITZING FILE AND ARDUINO CODE FILE UPLOADED
